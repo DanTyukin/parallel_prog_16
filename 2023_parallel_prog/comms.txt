@@ -1,0 +1,1 @@
+C:\Users\PC\Desktop\учеба_мага>pscp -i C:\Users\PC\Desktop\учеба_мага\ssh-keys\privatekey.ppk -r 2023_parallel_prog tm3u11@login1.hpc.spbstu.ru:. для переноса файлов

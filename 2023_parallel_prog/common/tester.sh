@@ -1,0 +1,1 @@
+python3 ../../test/test_results.py
